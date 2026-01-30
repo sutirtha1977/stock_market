@@ -1,0 +1,23 @@
+# Core Data Science & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+psycopg2-binary>=2.9.0
+SQLAlchemy>=2.0.0
+
+# Financial Data
+yfinance>=0.2.0
+requests>=2.31.0
+
+# CLI & UI
+rich>=13.0.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Development (Optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
